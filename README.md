@@ -1,7 +1,5 @@
 <h2>Olá, me chamo Guilherme Lima 
 
-Trabalho como Product Manger na [Mediar Solutions](https://mediarsolutions.com/). Apesar de atuar na área de produto, sou estudante de Engenharia de Software e vivencio o processo de desevolvimento todos os dias bem de perto, além de ja estar estudando algumas tecnologias.
-
 ## Essas são as tecnologias e ferramentas que venho estudando:
 **Programming Languages**
 
